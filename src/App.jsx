@@ -122,7 +122,7 @@ const App = () => {
           </ul>
         </div>
         <Link className="logoLink" to="/">
-          <img className="logoImg" src="./Assets/ReShopLogo.jpeg" alt="" />
+          <img className="logoImg" src="/ReShopLogo.jpeg" alt="" />
         </Link>
         <nav>
           <div>

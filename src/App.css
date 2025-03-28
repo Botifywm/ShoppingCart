@@ -19,8 +19,7 @@ body {
 }
 
 .loginLink {
-  justify-items: start;
-  align-items: center;
+  text-align: start;
   align-self: center;
 }
 
